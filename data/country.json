@@ -7106,7 +7106,7 @@
   "imsi": null
  },
  {
-  "name": "Holy See (Vatican City State)",
+  "name": "Vatican City State",
   "iso": "VA",
   "flag": "🇻🇦",
   "domain": "va",
@@ -9805,7 +9805,7 @@
   ]
  },
  {
-  "name": "Korea (Democratic People's Republic of)",
+  "name": "Korea (DPR)",
   "iso": "KP",
   "flag": "🇰🇵",
   "domain": "kp",
@@ -9841,7 +9841,7 @@
   ]
  },
  {
-  "name": "Korea (Republic of)",
+  "name": "Korea",
   "iso": "KR",
   "flag": "🇰🇷",
   "domain": "kr",
@@ -10033,7 +10033,7 @@
   ]
  },
  {
-  "name": "Lao People's Democratic Republic",
+  "name": "Lao",
   "iso": "LA",
   "flag": "🇱🇦",
   "domain": "la",
@@ -10645,7 +10645,7 @@
   ]
  },
  {
-  "name": "Macedonia (FYRo)",
+  "name": "Macedonia (North)",
   "iso": "MK",
   "flag": "🇲🇰",
   "domain": "mk",
@@ -11441,7 +11441,7 @@
   ]
  },
  {
-  "name": "Micronesia (Federated States of)",
+  "name": "Micronesia",
   "iso": "FM",
   "flag": "🇫🇲",
   "domain": "fm",
@@ -11470,10 +11470,10 @@
   ]
  },
  {
-  "name": "Moldova (Republic of)",
+  "name": "Moldova",
   "iso": "MD",
   "flag": "🇲🇩",
-  "domain": "md",
+  "domain": ".md",
   "imsi": [
    {
     "iso": "md",
@@ -17715,10 +17715,10 @@
   ]
  },
  {
-  "name": "Syrian Arab Republic",
+  "name": "Syria",
   "iso": "SY",
   "flag": "🇸🇾",
-  "domain": "sy",
+  "domain": ".sy",
   "imsi": [
    {
     "iso": "sy",
@@ -21654,7 +21654,7 @@
   ]
  },
  {
-  "name": "United States Minor Outlying Islands",
+  "name": "United States (Minor Outlying Islands)",
   "iso": "UM",
   "flag": "🇺🇲",
   "domain": "um",

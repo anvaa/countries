@@ -95,7 +95,6 @@ Guinea-Bissau,GW
 Guyana,GY
 Haiti,HT
 Heard Island and McDonald Islands,HM
-Holy See (Vatican City State),VA
 Honduras,HN
 Hong Kong,HK
 Hungary,HU
@@ -115,11 +114,11 @@ Jordan,JO
 Kazakhstan,KZ
 Kenya,KE
 Kiribati,KI
-Korea (Democratic People's Republic of),KP
-Korea (Republic of),KR
+Korea (DPR),KP
+Korea,KR
 Kuwait,KW
 Kyrgyzstan,KG
-Lao People's Democratic Republic,LA
+Lao,LA
 Latvia,LV
 Lebanon,LB
 Lesotho,LS
@@ -129,7 +128,7 @@ Liechtenstein,LI
 Lithuania,LT
 Luxembourg,LU
 Macao,MO
-Macedonia (FYRo),MK
+Macedonia (North),MK
 Madagascar,MG
 Malawi,MW
 Malaysia,MY
@@ -142,8 +141,8 @@ Mauritania,MR
 Mauritius,MU
 Mayotte,YT
 Mexico,MX
-Micronesia (Federated States of),FM
-Moldova (Republic of),MD
+Micronesia,FM
+Moldova,MD
 Monaco,MC
 Mongolia,MN
 Montenegro,ME
@@ -214,7 +213,7 @@ Svalbard and Jan Mayen,SJ
 Swaziland,SZ
 Sweden,SE
 Switzerland,CH
-Syrian Arab Republic,SY
+Syria,SY
 Taiwan,TW
 Tajikistan,TJ
 Tanzania,TZ
@@ -234,10 +233,11 @@ Ukraine,UA
 United Arab Emirates,AE
 United Kingdom,GB
 United States,US
-United States Minor Outlying Islands,UM
+United States (Minor Outlying Islands),UM
 Uruguay,UY
 Uzbekistan,UZ
 Vanuatu,VU
+Vatican City State,VA
 Venezuela,VE
 Viet Nam,VN
 Virgin Islands (British),VG
